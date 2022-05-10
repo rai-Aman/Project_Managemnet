@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    height: 3rem;
+  }
+  
+  .wrapper {
+    border-collapse: collapse;
+    width: 90rem;
+    border: 1px solid rgb(253, 251, 251);
+    font-size: 18px;
+    background-color: #f8f7f7;
+    height: 20rem;
+  }
+  .wrapper{
+      color: rgb(235, 105, 18);
+  }
+  h3{
+      color: rgb(235, 105, 18);
+  }
+  table {
+    width: 70rem;
+  }
+  
+  th {
+    height: 80px;
+  }
+
+  tr {
+    height: 80px;
+  }
+  .edit {
+    background-color: #eb7323; /* orange */
+   border-radius: 1rem;
+    color: white;
+    padding: 14px 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+  }
+  .save {
+    background-color: #eb7323; /* orange */
+   border-radius: 1rem;
+    color: white;
+    padding: 12px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .delete {
+    background-color: #eb7323; /* orange */
+   border-radius: 1rem;
+    color: white;
+    padding: 9px 9px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+

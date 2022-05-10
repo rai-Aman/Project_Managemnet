@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #111111;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #171817;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #fc8638;
+    padding: 20px;
+    margin-left: 25rem;
+    margin-right: 22rem;
+}
+
+.btn {
+    height: 2.5rem;
+    margin-top: 1rem;
+    border-radius: 6px;
+    background-color: rgb(19, 18, 18);
+    color: white;
+    width: 5rem;
+}
+
+.imgcontainer {
+    text-align: left;
+    margin: 24px 0 12px 0;
+}
+
+img.avatar {
+    width: 34%;
+    border-radius: 16%;
+    margin-bottom: -0.5rem;
+    margin-right: 0rem;
+    margin-top: -3rem;
+
+
+}
+h3{
+    color: rgb(245, 244, 244);
+}
